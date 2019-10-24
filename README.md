@@ -1,5 +1,6 @@
 # HUFSIST
-Keyword-based Lecture Recommendation, Filtering and Notification Service. (**키워드 기반 강의 추천 및 학사 알림 안드로이드 **)
+Keyword-based Lecture Recommendation, Filtering and Notification Service. 
+(**키워드 기반 강의 추천 및 학사 알림 안드로이드 **)
 
 ## Demo
 Try demo on https://appetize.io/app/qwrx54nmmj1a48r3zct2vqh36g (hosted on appetize.io)
